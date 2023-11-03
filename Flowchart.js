@@ -1,5 +1,5 @@
 let readlineSync = require('readline-sync')
-text17()
+start()
 
 function start(){
 console.log("Het is een lange, moeizame dag geweest, je hebt een glas melk opgewarmd en gaat in bed nog een beetje liggen lezen. De zon is al onder en de maan is verscholen achter donkere wolken, waardoor het enige licht in je slaapkamer afkomstig is van de kandelaar naast je hoofdeinde. Na een tijdje leg je het boek naast je neer, blaas je de kaars uit en sluit je je ogen, je vaag bewust zijnde van de regen die buiten op je raam klettert. Langzaam zak je weg en val je in een diepe slaap...");
